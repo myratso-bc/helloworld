@@ -3,6 +3,9 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hello CS 300"<<endl;
+    int number;
+    cout<<"Enter a number:";
+    cin>>number; 
+    cout<<"Number:"<<number<<endl;
     return 0;
 }
